@@ -27,6 +27,7 @@ chrono04 = { version = "0.4.39", default-features = false, optional = true, pack
 either1 = { version = "1.3", default-features = false, optional = true, package = "either" }
 indexmap2 = { version = "2.2.3", default-features = false, optional = true, package = "indexmap" }
 jiff02 = { version = "0.2", default-features = false, optional = true, package = "jiff" }
+optional-field01 = {version = "0.1.6", default-features = false, optional = true, package="optional-field"}
 rust_decimal1 = { version = "1.13", default-features = false, optional = true, package = "rust_decimal" }
 semver1 = { version = "1.0.9", default-features = false, optional = true, package = "semver" }
 smallvec1 = { version = "1.0", default-features = false, optional = true, package = "smallvec" }

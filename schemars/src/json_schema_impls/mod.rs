@@ -78,6 +78,9 @@ mod indexmap2;
 #[cfg(feature = "jiff02")]
 mod jiff02;
 
+#[cfg(feature = "optional-field01")]
+mod optional_field01;
+
 #[cfg(feature = "semver1")]
 mod semver1;
 
